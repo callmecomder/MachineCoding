@@ -1,4 +1,4 @@
-## 📩 Messaging Service
+# 📩 Messaging Service
 A simple and robust messaging application written in Java. This service supports one-on-one messaging and group messaging, with features for message validation, 
 secure storage, and easy retrieval for recipients.
 
